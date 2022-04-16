@@ -1,3 +1,4 @@
+"""Handles Animals Data"""
 ANIMALS = [
     {
         "id": 1,
