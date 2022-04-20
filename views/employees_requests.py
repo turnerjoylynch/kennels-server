@@ -3,17 +3,17 @@ EMPLOYEES = [
     {
         "id": 1,
         "name": "Tina Turner",
-        "locationId": 2
+        "location_id": 2
     },
     {
         "id": 2,
         "name": "Megan Thee Stallion",
-        "locationId": 1
+        "location_id": 1
     },
     {
         "id": 3,
         "name": "Nicholas Cage",
-        "locationId": 3
+        "location_id": 3
     }
 ]
 
